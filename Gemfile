@@ -18,7 +18,7 @@ gem 'puma', '~> 3.11'
 
 ## Adding specific needed gems:
 gem 'rspec-rails'
-
+gem 'factory_bot_rails'
 
 
 # Use ActiveStorage variant
