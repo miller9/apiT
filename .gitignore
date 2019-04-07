@@ -25,3 +25,10 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+#Ignore rubymine files
+**/.idea/
+.idea/*
+/.idea/workspace.xml
+/.idea/usage.statistics.xml
+/.idea/tasks.xml
